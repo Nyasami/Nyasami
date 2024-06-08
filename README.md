@@ -25,5 +25,5 @@
         background-size: cover;
         width: 130vw;
         opacity: 0.5;
-        background: url('https://github.com/Nyasami/me/blob/master/output.gif?raw=true');
+        background: url('https://github.com/Nyasami/Nyasami/blob/main/output.gif?raw=true');
 "]{}
