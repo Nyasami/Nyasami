@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arch,blender,vscode,c,cpp,js,ts,py,mongodb,nodejs,bun,express,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=arch,apple,blender,vscode,c,cpp,js,ts,py,mongodb,nodejs,bun,express,gamemakerstudio" />
 </div>
 
 ###
