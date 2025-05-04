@@ -6,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=arch,apple,windows,vscode,blender,gamemakerstudio,git" />
 </div>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust" />
+   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,swift" />
 </div>
 <div align="center">
    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,bun,express,react,vue" />
